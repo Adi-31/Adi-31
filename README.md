@@ -8,6 +8,6 @@
 ## Favourite Tools
 
 <img alt="Vite" height="70px" width="70px" align="center" src="https://vitejs.dev/logo-with-shadow.png"></img>
-<img alt="Vite" height="70px" width="70px" align="center" src="[https://vitejs.dev/logo-with-shadow.png](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png)"></img>
+<img alt="Vite" height="70px" width="70px" align="center" src="https://yt3.googleusercontent.com/ikv41jMTr1uHGdILrJhvbfVJcDt4oqhwApKX37TjAleF_cRPbF2W-waj7uMnS5JySvnlvAlTCg=s900-c-k-c0x00ffffff-no-rj"></img>
 
 
