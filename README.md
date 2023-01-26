@@ -10,6 +10,7 @@
 - Vite
 - Tailwind CSS
 - Next JS
+- Framer motion
 
 
 
