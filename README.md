@@ -1,16 +1,1 @@
-## Hey there 👋
-
-- 🌱 I’m currently learning React.js
-- 👯 I’m looking to collaborate on web development projects
-- 🤔 I’m looking for help with projects that involve JavaScript
-- 😄 Pronouns: he/him
-
-## Favourite Tools
-
-- Vite
-- Tailwind CSS
-- Next JS
-- Framer motion
-
-
-
+[![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adi-31)](https://github.com/Adi-31/github-readme-stats)
